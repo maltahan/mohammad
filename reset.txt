@@ -1,0 +1,3 @@
+reset the files form the staged to unstafe using the command 
+
+git reset filename
